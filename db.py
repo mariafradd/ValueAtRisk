@@ -31,6 +31,6 @@ CREATE TABLE IF NOT EXISTS var_results (
 
 mydb.commit()  
 
-# Chiudere la connessione al database
+
 mydb.close()
 
